@@ -1,7 +1,8 @@
 # Competitor-Sales-Analysis-Using-Power-BI
-<div style="text-align:center;">
-  ![image](https://github.com/HuyQuangOP/QuangHuyDao.Portfolio/blob/main/image/requiremetns.png)
-</div>
+<p align="center">
+  <img src="https://github.com/HuyQuangOP/QuangHuyDao.Portfolio/blob/main/image/requiremetns.png" alt="Image" />
+</p>
+
 
 
 
