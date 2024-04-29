@@ -1,2 +1,2 @@
-# Competitor-Sales-Analysis---Power-BI
+# Competitor-Sales-Analysis-Using-Power-BI
 by Power BI
