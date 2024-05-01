@@ -17,7 +17,8 @@ Before diving into Power BI, I like to get a feel for the data first.  In this c
 </p>
 
 Append International table to Sales. I had to comnbine the Sales table and International Sale to create a single table that can be used to analyze sales of all country. next to imporve the performance of the model, I disabled the table load of International Sales. 
-![image](https://github.com/HuyQuangOP/QuangHuyDao.Portfolio/blob/main/image/BI1.png)
+![image](https://github.com/HuyQuangOP/QuangHuyDao.Portfolio/blob/main/image/Screenshot%20(423).png)
+
 
 ## Step 2. Data Modelling
 - Create relationship between Sales and Geography by creating a calcualted collum that combines 2 collumns to set a realtionship
