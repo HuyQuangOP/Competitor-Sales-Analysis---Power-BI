@@ -15,7 +15,10 @@ Before diving into Power BI, I like to get a feel for the data first.  In this c
   <img src="https://github.com/HuyQuangOP/QuangHuyDao.Portfolio/blob/main/image/pbi1.png" alt="Image" />
 </p>
 
-Append International table to Sales. I had to comnbine the Sales table and International Sale to create a single table that can be used to analyze sales of all country. next to imporve the performance of the model, I disabled the table load of International Sales. 
+To analyze sales across all countries, I combined the "Sales" table (containing US data) with the individual "International Sales" files. This created a single, unified table for comprehensive sales insights.
+
+To optimize the Power BI model's performance, I disabled the loading of the separate "International Sales" tables after the merge. This ensures the model uses the combined table for analysis while keeping the original data readily available if needed. 
+
 ![image](https://github.com/HuyQuangOP/QuangHuyDao.Portfolio/blob/main/image/Screenshot%202024-05-01%20171016.png)
 
 
