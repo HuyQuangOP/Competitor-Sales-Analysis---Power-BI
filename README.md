@@ -23,11 +23,11 @@ To optimize the Power BI model's performance, I disabled the loading of the sepa
 
 
 ## Step 2. Data Modelling
-- Create relationship between Sales and Geography by creating a calcualted collum that combines 2 collumns to set a realtionship
+To create meaningful connections between our data, I implemented the following data modeling steps:
+- Sales & Geography Relationship: A calculated column was created in the "Sales" table, likely combining existing columns, to establish a clear relationship with the "Geography" table. This allows Power BI to understand how these tables connect.
+- Dedicated Date Table: A separate "Date" table was created. This table likely contains date dimensions (year, month, day, etc.) and was then connected to the "Sales" table. This dedicated structure helps with time-based analysis of sales data.
 
 ![image](https://github.com/HuyQuangOP/QuangHuyDao.Portfolio/blob/main/image/pbi2.png)
-
-- Crate new Date table. Connect Date and Sales
 
 ## Step 3. Data Visualization
 
