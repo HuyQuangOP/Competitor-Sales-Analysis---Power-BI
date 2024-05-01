@@ -31,10 +31,16 @@ To create meaningful connections between our data, I implemented the following d
 
 ## Step 3. Data Visualization
 
+**Reporting - Overview: Competior Sales**
 ![image](https://github.com/HuyQuangOP/QuangHuyDao.Portfolio/blob/main/image/BI1.png)
 
+
+**Reporting: Advanced Insights**
 ![image](https://github.com/HuyQuangOP/QuangHuyDao.Portfolio/blob/main/image/BI2.png)
 
+
+**Reporting - By Product(Category/Segment/Product)**
 ![image](https://github.com/HuyQuangOP/QuangHuyDao.Portfolio/blob/main/image/BI3.png)
 
+**Reporting - By Area(State/City) in United States**
 ![image](https://github.com/HuyQuangOP/QuangHuyDao.Portfolio/blob/main/image/BI4.png)
